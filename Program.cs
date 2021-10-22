@@ -13,7 +13,7 @@ namespace ConsoleApp2
             double m = 8;
              z = k / m;
             Console.WriteLine(z);
-
+            Console.WriteLine("New form");
         }
     }
 }
