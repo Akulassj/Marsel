@@ -14,6 +14,7 @@ namespace ConsoleApp2
              z = k / m;
             Console.WriteLine(z);
             Console.WriteLine("New form");
+            sdad
         }
     }
 }
